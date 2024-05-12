@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Fontend Web Developer</h1>
 <h3 align="center"> 🌟 Frontend Web Dev | UI/UX Enthusiast 🎨 Crafting captivating digital experiences with HTML, CSS, & JS. Passionate about clean code, pixel perfection, & user-centric design. Let's build something beautiful together! 💻✨ #CodeArtist</h3>
 
+<p align="center"> <img src="[https://komarev.com/ghpvc/?username=hureranaeem&label=Profile%20views&color=0e75b6&style=flat](https://github.com/hureranaeem/hureranaeem/blob/main/Untitled%20design%20(2).png)" alt="hureranaeem" /> </p>
 
 
 
